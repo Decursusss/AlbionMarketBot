@@ -11,26 +11,26 @@
 ### Seesion Handler
 > _Screenshot: with session list_
 
-![Session Overview](<img width="1041" height="683" alt="image" src="https://github.com/user-attachments/assets/c3361d55-d0b6-48a8-922f-41e50b7d8c78" />)
+<img width="1041" height="683" alt="image" src="https://github.com/user-attachments/assets/c3361d55-d0b6-48a8-922f-41e50b7d8c78" />
 
 ### Market Overview
 > _Screenshot: main dashboard with buy/sell orders_
  
-![Market Overview](<img width="1096" height="697" alt="image" src="https://github.com/user-attachments/assets/72763fc2-bbf4-430e-bc99-f44c8c20a1f2" />)
+<img width="1096" height="697" alt="image" src="https://github.com/user-attachments/assets/72763fc2-bbf4-430e-bc99-f44c8c20a1f2" />
 
 ---
  
 ### Auto Buy + Deal Scanner
 > _Screenshot: profitable deals list and auto buy_
  
-![Deal Scanner](<img width="1097" height="698" alt="image" src="https://github.com/user-attachments/assets/5145e430-19ee-4701-a7c5-01dcbeb36b50" />)
+<img width="1097" height="698" alt="image" src="https://github.com/user-attachments/assets/5145e430-19ee-4701-a7c5-01dcbeb36b50" />
  
 ---
  
 ### Auto Sell
 > _Screenshot: bot automatically posting sell orders_
  
-![Auto Sell](<img width="1096" height="696" alt="image" src="https://github.com/user-attachments/assets/b6d8e2be-c05f-4631-9c74-4ae711773bf6" />)
+<img width="1096" height="696" alt="image" src="https://github.com/user-attachments/assets/b6d8e2be-c05f-4631-9c74-4ae711773bf6" />
 
 ---
  
@@ -76,6 +76,6 @@ The bot requires a license key to run.
 4. Click **Login**
 > _Screenshot: activation screen with key input field_
  
-![Activation Screen](<img width="419" height="420" alt="image" src="https://github.com/user-attachments/assets/4a60a023-c8e9-486e-a3bf-bf64aa95331d" />)
+<img width="419" height="420" alt="image" src="https://github.com/user-attachments/assets/4a60a023-c8e9-486e-a3bf-bf64aa95331d" />
  
 ---

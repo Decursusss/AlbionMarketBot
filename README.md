@@ -65,7 +65,7 @@ The bot requires a license key to run.
 1. Open Telegram and find the bot: **[@bastrikbot](https://t.me/bastrikbot)**
 2. Send the command `/start`
 3. Follow the instructions to get your key
-4. Copy the key — you'll need it in the next step
+4. Copy the key, you'll need it in the next step
 ---
  
 ### Step 3 Activate the Bot

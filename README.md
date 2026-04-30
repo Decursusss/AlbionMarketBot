@@ -2,7 +2,7 @@
 
 > Automated market bot for Albion Online buy low, sell high, profit on flips.
 
-[![Platform](<img width="169" height="140" alt="image" src="https://github.com/user-attachments/assets/27750472-3d59-4d82-8304-5d2963cdc056" />)]()
+<img width="169" height="140" alt="image" src="https://github.com/user-attachments/assets/27750472-3d59-4d82-8304-5d2963cdc056" />
 
 ---
 

@@ -11,7 +11,7 @@
 ### Seesion Handler
 > _Screenshot: with session list_
 
-<img width="1041" height="683" alt="image" src="https://github.com/user-attachments/assets/c3361d55-d0b6-48a8-922f-41e50b7d8c78" />
+<img width="1098" height="699" alt="image" src="https://github.com/user-attachments/assets/faf4d752-92db-479b-87a2-ac0738503827" />
 
 ### Market Overview
 > _Screenshot: main dashboard with buy/sell orders_
